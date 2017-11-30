@@ -1,3 +1,5 @@
+//this code can create a text file in system
+//and put inside it wiched data
 #include "datastorage.h"
 #include <iostream>
 #include <fstream>
@@ -6,8 +8,8 @@ using namespace std;
 
 int main()
 {
-        ofstream writer("datafile.txt" );
-        if (writer.is_open())
+      ofstream writer("datafile.txt" );
+       if (writer.is_open())
         {
             int datasize =1000;
             writer << "extracted  data"<< endl;
