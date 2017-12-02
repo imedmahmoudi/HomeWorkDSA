@@ -1,0 +1,6 @@
+This Programme extract different "time series" data
+with various symbols from the following data 
+source: https://www.alphavantage.com
+using QTNetwork Manager and create UI 
+when the botton is pushed it request to extract data
+from the URL
