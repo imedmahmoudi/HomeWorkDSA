@@ -1,0 +1,1 @@
+this code is capble of plotting read data using QCustomPlot
